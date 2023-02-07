@@ -1,8 +1,5 @@
 import csv
 import json
-import os
-from dataclasses import dataclass
-from pathlib import Path
 from first import findfeed
 from second import find_feeds
 
